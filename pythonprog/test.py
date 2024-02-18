@@ -1,4 +1,4 @@
-from tkinter import
+from tkinter import*
 from tkinter import filedialog
 from tkinter import messagebox
 from PyPDF2 import PdfWriter, PdfReader #pip install pyPDF2
